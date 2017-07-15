@@ -1,0 +1,14 @@
+SIMPLE INTERESt
+p=1000
+r=5
+t=3
+si=(p*r*t)/100
+print (si)
+150.0
+SQAREROOT
+import math
+print(math.sqrt(100))
+10
+LOWERCASE TO UPPER CASE
+s ="sayak"
+s.uppercase()
